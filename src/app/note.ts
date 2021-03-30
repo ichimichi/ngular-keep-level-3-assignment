@@ -5,8 +5,8 @@ export class Note {
   state: string;
 
   constructor() {
-    this.title = '';
-    this.text = '';
-    this.state = 'not-started';
+    this.title = "";
+    this.text = "";
+    this.state = "not-started";
   }
 }
